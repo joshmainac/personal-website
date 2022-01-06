@@ -114,6 +114,17 @@ nav ul li a:hover {
   color: lightseagreen;
 }
 
+.img-text-wrapper .subtitle a {
+  transition: 1s;
+  font-weight: 600;
+  color: transparent;
+}
+
+.img-text-wrapper:hover .subtitle a {
+  font-weight: 600;
+  color: orange;
+}
+
 .img-darken {
   transition: 1s;
   filter: brightness(10%);
