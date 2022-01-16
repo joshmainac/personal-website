@@ -1,7 +1,7 @@
 # personal-website
 Personal Portfolio Website
--https://joshmainac.github.io/personal-website
--https://github.com/joshmainac/personal-website
+(website)https://joshmainac.github.io/personal-website
+(github)https://github.com/joshmainac/personal-website
 
 1)Created using HTML, CSS, JavaScrip
 2)Animation using CSS and JavaScrip.
